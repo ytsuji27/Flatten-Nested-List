@@ -1,8 +1,7 @@
-const test = [[1,2,[3]],4];
-
 const flatten = arr => {
   let result = [];
   flattenList(arr, result);
+  return result;
 }
 
 const flattenList = (arr, result) => {
