@@ -17,4 +17,4 @@ const flattenList = (arr, result) => {
   return result;
 }
 
-console.log(flatten(test));
+module.exports = flatten;

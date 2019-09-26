@@ -1,0 +1,22 @@
+{
+  "name": "flatten-nested-list",
+  "version": "1.0.0",
+  "description": "Given a nested list of integers, implement an iterator to flatten it.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytsuji27/Flatten-Nested-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytsuji27/Flatten-Nested-List/issues"
+  },
+  "homepage": "https://github.com/ytsuji27/Flatten-Nested-List#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
